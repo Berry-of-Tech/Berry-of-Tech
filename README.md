@@ -1,4 +1,4 @@
-### Hi my name is Alajede Mustapha 👋
+### Hi, my name is Alajede Mustapha 👋
 
 ### I am a Data Analyst
 
