@@ -1,6 +1,6 @@
 ### Hi, my name is Alajede Mustapha 👋
 
-### I am a Data Analyst, Mechanical Engineering Graduate
+### I am a Data Scientist/Analyst, Mechanical Engineering Graduate
 
 - 🔭 I’m currently working on projects to grow my data analytic skills
 - 🌱 I’m currently learning Advanced ML
